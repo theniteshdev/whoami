@@ -4,7 +4,7 @@
 
 📧 Email: nitesh.dev@proton.me  
 🐙 GitHub: [Nitesh-c (NITESH) · GitHub](https://github.com/nitesh-c)  
-🐦 Twitter (X): https://x.com/nitesh_backdev
+🐦 Twitter (X): https://x.com/@theniteshdev
 
 ---
 
